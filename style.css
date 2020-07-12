@@ -152,6 +152,8 @@ a:visited{
 
 .heroImage{
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 #profileImg{
     position: absolute;
