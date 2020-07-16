@@ -69,6 +69,7 @@ color: #b4975a ;
   
     background-image: url("./imgs/d6lmqaa-85d53874-2c34-46a4-9dd4-1f8d8fc7b3b5.jpg");
 background-attachment: fixed;
+background-size: cover;
 background-repeat: no-repeat;}
 .up{
     position: fixed;
